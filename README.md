@@ -1,3 +1,5 @@
+**Readme drafted with gpt-4o**
+
 # ML Model Deployment on AWS
 
 This project is an educational initiative aimed at deploying machine learning models detecting fake news on AWS. It demonstrates the process of building, saving, and deploying a simple text classification model using Flask and Scikit-learn.
